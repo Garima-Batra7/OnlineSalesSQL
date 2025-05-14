@@ -1,6 +1,6 @@
 #  Sales Trend Analysis Using Aggregations
 
-##  Task Overview
+##   Overview
 This repository contains the SQL-based solution for **Task 6: Sales Trend Analysis**.  
 The objective was to analyze monthly revenue and order volume using SQL aggregation functions on the `online_sales` dataset.
 
